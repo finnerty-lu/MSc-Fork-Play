@@ -11,9 +11,9 @@ email-obfuscation: javascript
 
 # Welcome
 
-Welcome to this module PSYC411! Very glad to have you here with us.
+Welcome to this module PSYC7141! Very glad to have you here with us.
 
-Rob Davies ![](https://www.lancaster.ac.uk/images/people/3324.jpg){width="1in"} and Padraic Monaghan ![](https://www.lancaster.ac.uk/images/people/1290.jpg){width="1in"} are the lecturers on this module. 
+Rob Davies ![](https://www.lancaster.ac.uk/images/people/3324.jpg){width="1in"} and Samuel Finnerty ![](https://www.lancaster.ac.uk/images/people/13081.jpg){width="1in"} are the lecturers on this module. 
 
 We are looking forward to meeting you!
 
