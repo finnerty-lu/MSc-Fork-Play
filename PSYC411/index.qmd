@@ -1,6 +1,6 @@
 ---
 title: Analysing and Interpreting Psychological Data I
-subtitle: "Course coordinators: Padraic Monaghan, Rob Davies"
+subtitle: "Course coordinators: Rob Davies, Samuel Finnerty"
 email-obfuscation: javascript
 
 #listing:
@@ -65,6 +65,6 @@ Next step is to go to the Week 1 materials, once they are released. We aim to re
 
 |             | Email Address                                                  |
 |-------------|----------------------------------------------------------------|
-| Padraic Monaghan | [p.monaghan\@lancaster.ac.uk](mailto:p.monaghan@lancaster.ac.uk) |
+| Samuel Finnerty | [s.finnerty\@lancaster.ac.uk](mailto:s.finnerty@lancaster.ac.uk) |
 | Rob Davies  | [r.davies1\@lancaster.ac.uk](mailto:r.davies1@lancaster.ac.uk)     |
 |             |                                                                |
