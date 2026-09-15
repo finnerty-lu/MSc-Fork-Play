@@ -1,6 +1,6 @@
 ---
 title: Week 1. Introducing Data
-subtitle: Written by Padraic Monaghan
+subtitle: Written by Padraic Monaghan, Adapted by Samuel Finnerty
 order: 2
 ---
 
